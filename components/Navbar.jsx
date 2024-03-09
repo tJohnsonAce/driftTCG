@@ -17,7 +17,7 @@ const Navbar = () => (
     <div className={`${styles.innerWidth} mx-auto flex justify-between gap-8`}>
       <CiSearch className="text-white w-8 h-8" />{" "}
       <h2 className="font-extrabold text-[24px] leading-[30.24px] text-white">
-        RC DUELS
+        DriftTCG
       </h2>
       <RxHamburgerMenu className="text-white w-8 h-8" />{" "}
     </div>

@@ -28,7 +28,7 @@ const Hero = () => (
           className="text-4xl font-bold md:text-6xl"
           style={{ letterSpacing: "0.05em" }}
         >
-          of RC Duels
+          of DriftTCG
         </h2>
       </motion.div>
       <motion.div

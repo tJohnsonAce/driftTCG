@@ -16,13 +16,13 @@ const About = () => (
       viewport={{ once: false, amount: 0.25 }}
       className={`${styles.innerWidth} mx-auto ${styles.flexCenter} flex-col`}
     >
-      <TypingText title="| About RC Duels" textStyles="text-center" />
+      <TypingText title="| About DriftTCG" textStyles="text-center" />
 
       <motion.p
         variants={fadeIn("up", "tween", 0.2, 1)}
         className="mt-[8px] font-normal sm:text-[32px] text-[20px] text-center text-secondary-white"
       >
-        <span className="font-extrabold text-white">RC Duels</span> mco laboris
+        <span className="font-extrabold text-white">DriftTCG</span> mco laboris
         nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
         reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
         pariatur.{" "}
